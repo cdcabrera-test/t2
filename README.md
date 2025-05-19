@@ -1,7 +1,7 @@
 # t2
 [![Build Status](https://travis-ci.org/cdcabrera/t2.svg?branch=master)](https://travis-ci.org/cdcabrera/apidoc-mock)
 [![codecov](https://codecov.io/gh/cdcabrera/t2/branch/master/graph/badge.svg)](https://codecov.io/gh/cdcabrera/apidoc-mock)
-[![License](https://img.shields.io/github/license/cdcabrera/t2.svg)](https://github.com/cdcabrera/apidoc-mock/blob/master/LICENSE)
+![GitHub License](https://img.shields.io/github/license/cdcabrera-test/t2)
 
 testing more build
 
